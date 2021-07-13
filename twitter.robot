@@ -30,7 +30,3 @@ Login Twitter Sucess
     Wait Until Page Contains    พิธีปิดการแข่งขันคอมพิวเตอร์โอลิมปิกระดับชาติ
     Capture Page Screenshot    4_Login_Twitter_Page_Success.jpg
 
-Share Sucess  
-    Click element    xpath://*[@id="react-root"]/div/div/div[2]/main/div/div/div[2]/div/div/div/div[3]/div
-    Capture Page Screenshot    5_share_twitter_Success.jpg
-    Close Browser
